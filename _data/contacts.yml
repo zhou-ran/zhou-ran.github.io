@@ -1,0 +1,19 @@
+- title: Twitter
+  url: https://twitter.com/kepbod
+  icon: fa-twitter
+
+- title: LinkedIn
+  url: https://www.linkedin.com/in/kepbod
+  icon: fa-linkedin
+
+- title: GitHub
+  url: https://github.com/kepbod
+  icon: fa-github
+
+- title: Instagram
+  url: https://www.instagram.com/xozhang1989/
+  icon: fa-instagram
+
+- title: Email
+  url: mailto:xozhang1989@gmail.com
+  icon: fa-envelope-o
