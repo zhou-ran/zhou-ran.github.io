@@ -1,8 +1,6 @@
-title: Keep it simple, stupid
-user: Xiao-Ou Zhang
+title: Start from scratch
+user: Ran Zhou
 author:
-  name: Xiao-Ou Zhang, PhD
-  description: I'm a <a href='xiaoou_zhang_cv.pdf'>computational biologist</a> who
-    is passionate about <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ'>RNA</a> and
-    <a href='projects.html'>data mining</a>!
+  name: Ran Zhou
+  description: Actions speak louder than words
 gems: [github-pages]
